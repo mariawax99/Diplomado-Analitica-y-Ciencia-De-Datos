@@ -12,4 +12,6 @@ Trasformar y visualizar los datos que permita a los propietarios obtener informa
 
 2. Bajo rendimiento en la categoría de electronica
    - Esta categoria ha experimentado una disminución en las ventas al comprarla con otras como ropa y belleza.
-  
+
+### Código utilizado en el análisis
+```SELECT + FROM table ```
